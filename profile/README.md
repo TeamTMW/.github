@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, we are TeamTMW (The Modded Warehouse)</h1>
-<h3 align="center">Just a different modded network</h3>
+## Hey there, we are TeamTMW
+Founded in 2022 as a modded Minecraft network, we are now expanding to create even more amazing things. Our *soon to be registered* company TeamTMW is dedicated to pushing boundaries and exploring new horizons in the world of gaming and 
+technology.
 
-<h3 align="left">Contact us:</h3>
-<p align="left">
-<a href="https://twitter.com/moddedwarehouse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ModdedWarehouse" height="30" width="40" /></a>
-<a href="https://discord.gg/moddedwarehouse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".gg/ModdedWarehouse" height="30" width="40" /></a>
-  <a href="https://tmw.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/TeamTMW/.github/main/images/1f517.png" alt="tmw.gg" height="30" width="30" /></a>
-</p>
+You might wonder what we do. Here's the project we are working on:
+* **[TMW.gg](https://TMW.gg) (The Modded Warehouse)** is a next-gen modded Minecraft network, providing everyone an amazing modded experience.
+
+
+## Contact us
+Don't hesitate to contact us; we are friendly! If you want to reach us, email us at `webmaster@tmw.gg` or contact **2lay** on Discord.
